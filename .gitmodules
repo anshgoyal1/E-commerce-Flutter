@@ -1,0 +1,3 @@
+[submodule "E-commerce-Server"]
+	path = E-commerce-Server
+	url = https://github.com/anshgoyal1/E-commerce-Server
